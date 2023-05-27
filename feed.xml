@@ -15,17 +15,19 @@
             <description></description>
             <pubDate>Sat, 27 May 2023 00:02:05 EST</pubDate>
             <guid>welcome</guid>
-            <content>
-                On this blog I will post guides, tutorials, and some of my own learnings around software engineering. I mainly focus on JavaScript, Python, and Java.
-                <br/>
-                As I build this blog, I am attempting to manage it via my first self-generated RSS feed. A special shoutout to fellow Twitch streamer <a href="https://whitep4nth3r.com/blog/how-to-format-dates-for-rss-feeds-rfc-822/" target="_blank">whitep4nth3r</a> 
-                for helping me with date formatting in their 2022 article. Apparently I'm not the only one that saw an RSS fee as a viable option.
-                <br/>
-                I am currently live streaming my #100DaysOfCode journey on <a href="https://youtube.com/@metadevgirl">YouTube</a> and <a href="https://twitch.com/metadevgirl">Twitch</a> where I am transitioning from Software Engineer to Machine Learning Engineer with #100DaysOfML.
-                You can find my current and past livestreams as well as other tech advice and videos on YouTube!
-                <br/>
-                Follow me to check in on my progress and stay tuned for more info!
-            </content>
+            <content:encoded>
+                <![CDATA[
+                    On this blog I will post guides, tutorials, and some of my own learnings around software engineering. I mainly focus on JavaScript, Python, and Java.
+                    <br/>
+                    As I build this blog, I am attempting to manage it via my first self-generated RSS feed. A special shoutout to fellow Twitch streamer <a href="https://whitep4nth3r.com/blog/how-to-format-dates-for-rss-feeds-rfc-822/" target="_blank">whitep4nth3r</a> 
+                    for helping me with date formatting in their 2022 article. Apparently I'm not the only one that saw an RSS fee as a viable option.
+                    <br/>
+                    I am currently live streaming my #100DaysOfCode journey on <a href="https://youtube.com/@metadevgirl">YouTube</a> and <a href="https://twitch.com/metadevgirl">Twitch</a> where I am transitioning from Software Engineer to Machine Learning Engineer with #100DaysOfML.
+                    You can find my current and past livestreams as well as other tech advice and videos on YouTube!
+                    <br/>
+                    Follow me to check in on my progress and stay tuned for more info!
+                ]]>
+            </content:encoded>
         </item>
     </channel>
 </rss>
